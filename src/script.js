@@ -50,6 +50,7 @@ function set_camera(){
     console.log(camera)
     scene.add(camera)
 }
+console.log("main changes")
 
 /** Controls
   * 
